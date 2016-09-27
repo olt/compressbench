@@ -10,7 +10,8 @@ All test images are from golang.org/x/image/testdata/ and were converted to pale
 
 
 Improvements:
-                                                                                 old           new           speedup
+
+    file                                                                         old           new           speedup
     ./testdata/blue-purple-pink-large.lossless.webp.png                          64136         49311         0.77x
     ./testdata/blue-purple-pink-large.no-filter.lossy.webp.png                   58609         46484         0.79x
     ./testdata/blue-purple-pink-large.no-filter.lossy.webp.ycbcr.png.png         126092        121210        0.96x
